@@ -13,3 +13,33 @@
 [submodule "emacs-zlc"]
 	path = emacs-zlc
 	url = https://github.com/mooz/emacs-zlc
+[submodule "tabbar"]
+	path = tabbar
+	url = https://github.com/dholm/tabbar.git
+[submodule "s.el"]
+	path = s.el
+	url = https://github.com/magnars/s.el
+[submodule "dash.el"]
+	path = dash.el
+	url = https://github.com/magnars/dash.el.git
+[submodule "git-modes"]
+	path = git-modes
+	url = https://github.com/lunaryorn/git-modes.git
+[submodule "dirtree"]
+	path = dirtree
+	url = https://github.com/zkim/emacs-dirtree.git
+[submodule "emacs-dirtree"]
+	path = emacs-dirtree
+	url = https://github.com/zkim/emacs-dirtree.git
+[submodule "mark-multiple.el"]
+	path = mark-multiple.el
+	url = https://github.com/magnars/mark-multiple.el.git
+[submodule "ibuffer-vc"]
+	path = ibuffer-vc
+	url = https://github.com/purcell/ibuffer-vc.git
+[submodule "org-bullets"]
+	path = org-bullets
+	url = https://github.com/sabof/org-bullets.git
+[submodule "projectile"]
+	path = projectile
+	url = https://github.com/bbatsov/projectile.git
